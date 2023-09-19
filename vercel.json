@@ -2,7 +2,6 @@
   "version": 2,
   "builds": [
     {
-        "devCommand": "yarn dev",
         "buildCommand": "yarn build"
     }
   ]
