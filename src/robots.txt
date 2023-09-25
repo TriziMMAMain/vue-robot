@@ -1,5 +1,4 @@
 User-agent: *
-Crawl-delay: 1
 Host: https://vse-instrumenti-don.vercel.app/
 
 Sitemap: https://vse-instrumenti-don.vercel.app/sitemap.xml
